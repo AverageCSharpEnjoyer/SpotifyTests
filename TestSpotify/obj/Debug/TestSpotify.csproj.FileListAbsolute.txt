@@ -1,0 +1,16 @@
+C:\Users\zieli\OneDrive\Pulpit\testowanieMZ\TestSpotify\TestSpotify\bin\Debug\TestSpotify.dll
+C:\Users\zieli\OneDrive\Pulpit\testowanieMZ\TestSpotify\TestSpotify\bin\Debug\TestSpotify.pdb
+C:\Users\zieli\OneDrive\Pulpit\testowanieMZ\TestSpotify\TestSpotify\bin\Debug\appium-dotnet-driver.dll
+C:\Users\zieli\OneDrive\Pulpit\testowanieMZ\TestSpotify\TestSpotify\bin\Debug\Castle.Core.dll
+C:\Users\zieli\OneDrive\Pulpit\testowanieMZ\TestSpotify\TestSpotify\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\zieli\OneDrive\Pulpit\testowanieMZ\TestSpotify\TestSpotify\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zieli\OneDrive\Pulpit\testowanieMZ\TestSpotify\TestSpotify\bin\Debug\WebDriver.dll
+C:\Users\zieli\OneDrive\Pulpit\testowanieMZ\TestSpotify\TestSpotify\bin\Debug\WebDriver.Support.dll
+C:\Users\zieli\OneDrive\Pulpit\testowanieMZ\TestSpotify\TestSpotify\bin\Debug\appium-dotnet-driver.xml
+C:\Users\zieli\OneDrive\Pulpit\testowanieMZ\TestSpotify\TestSpotify\bin\Debug\Castle.Core.xml
+C:\Users\zieli\OneDrive\Pulpit\testowanieMZ\TestSpotify\TestSpotify\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zieli\OneDrive\Pulpit\testowanieMZ\TestSpotify\TestSpotify\bin\Debug\WebDriver.xml
+C:\Users\zieli\OneDrive\Pulpit\testowanieMZ\TestSpotify\TestSpotify\bin\Debug\WebDriver.Support.xml
+C:\Users\zieli\OneDrive\Pulpit\testowanieMZ\TestSpotify\TestSpotify\obj\Debug\TestSpotify.csprojResolveAssemblyReference.cache
+C:\Users\zieli\OneDrive\Pulpit\testowanieMZ\TestSpotify\TestSpotify\obj\Debug\TestSpotify.dll
+C:\Users\zieli\OneDrive\Pulpit\testowanieMZ\TestSpotify\TestSpotify\obj\Debug\TestSpotify.pdb
